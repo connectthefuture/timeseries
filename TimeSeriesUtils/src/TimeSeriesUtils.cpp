@@ -1,4 +1,5 @@
 #include <vector>
+#include <cmath>
 #include <algorithm>
 #include "../include/TimeSeriesUtils.hpp"
 
